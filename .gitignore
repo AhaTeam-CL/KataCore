@@ -1,0 +1,14 @@
+# .NET Core build artifacts
+bin/
+obj/
+out/
+
+.minecraft/
+
+# Rider IDE files
+.idea/
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates

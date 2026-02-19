@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata3", "Kata3\Kata3.csproj", "{327A543F-315C-4F76-9BB2-BD4926A76DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata3Test", "Kata3Test\Kata3Test.csproj", "{BF6FDA70-D553-473D-A576-B86BAF5D2DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327A543F-315C-4F76-9BB2-BD4926A76DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327A543F-315C-4F76-9BB2-BD4926A76DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327A543F-315C-4F76-9BB2-BD4926A76DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327A543F-315C-4F76-9BB2-BD4926A76DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6FDA70-D553-473D-A576-B86BAF5D2DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6FDA70-D553-473D-A576-B86BAF5D2DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6FDA70-D553-473D-A576-B86BAF5D2DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6FDA70-D553-473D-A576-B86BAF5D2DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
