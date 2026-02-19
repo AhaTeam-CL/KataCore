@@ -3,12 +3,24 @@ bin/
 obj/
 out/
 
+# Minecraft related files
 .minecraft/
+*.log
 
-# Rider IDE files
+# IDE files
 .idea/
+.vs/
+.vscode/
 *.csproj.user
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
